@@ -188,8 +188,8 @@ Unicode当然是一个很大的集合，现在的规模可以容纳100多万个�
 Unicode规范中定义，每一个文件的最前面分别加入一个表示编码顺序的字符，这个字符的名字叫做"零宽度非换行空格"（ZERO WIDTH NO-BREAK SPACE），用FEFF表示。这正好是两个字节，而且FF比FE大1。
 如果一个文本文件的头两个字节是FE FF，就表示该文件采用大头方式；如果头两个字节是FF FE，就表示该文件采用小头方式。
 <h3>引用:</h3>
-[Unicode](https://zh.wikipedia.org/wiki/Unicode)
-[UTF](https://zh.wikipedia.org/wiki/UTF-8)
-[BIG5](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC)
-[GB-2312](https://zh.wikipedia.org/wiki/GB_2312)
-[阮一峰](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
+[Unicode](https://zh.wikipedia.org/wiki/Unicode)<br>
+[UTF](https://zh.wikipedia.org/wiki/UTF-8)<br>
+[BIG5](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC)<br>
+[GB-2312](https://zh.wikipedia.org/wiki/GB_2312)<br>
+[阮一峰](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)<br>
